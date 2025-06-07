@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "a33c64adfa261f90",
+    "id": "bf93beb2d6ecb674",
     "type": "split",
     "children": [
       {
-        "id": "4dd5246162ebb0fd",
+        "id": "75fd8e63d75426ad",
         "type": "tabs",
         "children": [
           {
-            "id": "b2976f1c0526905a",
+            "id": "e84e613d2da9fd30",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rough/Fresh Start.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Fresh Start"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "dc9a78ef20c21f3c",
+    "id": "166f7910610e2755",
     "type": "split",
     "children": [
       {
-        "id": "60e50fded285669d",
+        "id": "eb6c78462ceabf03",
         "type": "tabs",
         "children": [
           {
-            "id": "029857360d7d89c0",
+            "id": "5ebed003d348189e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "587029c4a10befa3",
+            "id": "880873b5a5cc5d1f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "b44b63e1718fc7d7",
+            "id": "c28f80a1b7b40b02",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,15 +81,15 @@
     "width": 300
   },
   "right": {
-    "id": "4452330e8fec7bfc",
+    "id": "5ac1dfb4a52b6aaa",
     "type": "split",
     "children": [
       {
-        "id": "1e17308ede4c5e5b",
+        "id": "36c06c73c04c74e9",
         "type": "tabs",
         "children": [
           {
-            "id": "ca0c6a0945132632",
+            "id": "8bebdc4a68f61f04",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,7 +107,7 @@
             }
           },
           {
-            "id": "714b3a1878c92bc7",
+            "id": "c0783eb3f2f2abe8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,7 +120,7 @@
             }
           },
           {
-            "id": "58475a1aa303431a",
+            "id": "4080de5a66f82705",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,18 +135,17 @@
             }
           },
           {
-            "id": "7984f20b80c671d4",
+            "id": "7e217e815bccdbe7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           }
         ]
@@ -162,8 +165,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "029857360d7d89c0",
+  "active": "e84e613d2da9fd30",
   "lastOpenFiles": [
-    "Untitled.canvas"
+    "5 - Templates/New File.md",
+    "1 - Rough/Fresh Start.md",
+    "Untitled.md",
+    "5 - Templates",
+    "center-of-hell/Untitled.md",
+    "center-of-hell/5 - Full Notes",
+    "center-of-hell/4 - Index",
+    "center-of-hell/Full Notes",
+    "center-of-hell/3 - Tags",
+    "center-of-hell/1 - Rough",
+    "center-of-hell/3- Full Notes",
+    "center-of-hell/2 - Source",
+    "center-of-hell/1 - Rough Notes"
   ]
 }
