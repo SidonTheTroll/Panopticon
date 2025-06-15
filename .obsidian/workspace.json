@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "799d786732aefed0",
+        "id": "8ea77c054de9bec5",
         "type": "tabs",
         "children": [
           {
-            "id": "e8d7bab8bbac6724",
+            "id": "ff6242a1e91773b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "images/3.webp"
+              },
+              "icon": "lucide-image",
+              "title": "3"
             }
           }
         ]
@@ -74,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5ac1dfb4a52b6aaa",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 - Rough/Mathematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Mathematics"
             }
           },
           {
@@ -108,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1 - Rough/Mathematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Mathematics"
             }
           },
           {
@@ -136,15 +141,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "images/3.webp",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 3"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -161,11 +168,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8d7bab8bbac6724",
+  "active": "ff6242a1e91773b8",
   "lastOpenFiles": [
-    "5 - Templates/New File.md",
+    "1 - Rough/Mathematics.md~",
+    "1 - Rough/Mathematics.md",
+    "images/3.webp",
+    "images",
+    "Untitled",
     "1 - Rough/Fresh Start.md",
-    "Untitled.md",
+    "5 - Templates/New File.md",
     "5 - Templates",
     "center-of-hell/Untitled.md",
     "center-of-hell/5 - Full Notes",
@@ -173,8 +184,6 @@
     "center-of-hell/Full Notes",
     "center-of-hell/3 - Tags",
     "center-of-hell/1 - Rough",
-    "center-of-hell/3- Full Notes",
-    "center-of-hell/2 - Source",
-    "center-of-hell/1 - Rough Notes"
+    "center-of-hell/3- Full Notes"
   ]
 }
