@@ -25,5 +25,14 @@ For $H_7$, the starting point is at exactly 25.000 mm. The maximum hole size is 
 | 5A (laboratory precision test gauges) | $\pm 0.05%$ of span | 
 | 5AR (laboratory precision test gauges) | $\pm 0.05%$ of reading |
 | 4A (laboratory precision test gauges) | $\pm 0.1%$ of span | 
+| 4AR (laboratory precision test gauges) | $\pm 0.1%$ of reading | 
+| 3A (test gauges) | $\pm 0.25%$ of span |
+| 3AR (test gauges) | $\pm 0.25%$ of reading |
+| 2A (process gauges) | $\pm 0.5%$ of span |
+| 2AR (process gauges) | $\pm 0.5%$ of reading |
+| A (industrial gauges) | $\pm 1%$ of span |
+| AR (industrial gauges) | $\pm 1%$ of reading |
+| B (commercial gauges) | $\pm 2%$ of span |
+| BR (commercial gauges) | $\pm 2%$ of reading |
 
 This represents the joint accuracy. It means less tolerance and more accuracy. According to IS919-1993, total grade is 18 (01, 0, -1, to 16). $H_7/H_6$ means for fitting hole grade of accuracy 7 and a shaft of accuracy grade is 6.
