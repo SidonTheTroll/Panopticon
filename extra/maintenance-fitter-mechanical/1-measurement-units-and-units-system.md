@@ -143,7 +143,7 @@ The difference in between the actual hole size and shaft size is called toleranc
 ## Tolerance Grade 
 With engineering fits, the tolerance will always be shown in alpha-numeric code. For example, a tole tolerance may be H7. 
 
-![Tolerance Grade Chart](./img/3/tolerance-grade-chart.jpg)
+![Tolerance Grade Chart](./img/1/tolerance-grade-chart.jpg)
 
 The capital letter signifies that we are dealing with a hole. When indicating tolerance for a shaft, the letter will be lowercase. The number shows the international tolerance grade (ISO 286).
 
