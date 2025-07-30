@@ -67,6 +67,8 @@ $$
 The temperature is measured in $\degree C$ or $\degree F$ and absolute temperature. The raised level of mercury in the column indicates the temperature. In clinical thermometer, temperature starts from $32 \degree F$. In laboratory thermometer, temperature starts from $0 \degree C$.
 
 # Fit
+<img src="./img/1/fit.webp" align=right width=400>
+
 Joining different parts is called fit. For example, 
 
 1. Bush and shaft fit 
@@ -83,7 +85,7 @@ Joining different parts is called fit. For example,
 ![Types of Fit](./img/2/types-of-fit.png)
 
 ## Clearance Fit
-With a clearance fit, the shaft is always smaller than the hole. This enables easy assembly and leaves room for sliding and rotational movement. When the shaft diameter is at its minimum and hole diameter at its maximum, we have a situation of maximum clearance, and minimum clearance for vice-versa.
+With a clearance fit, the shaft is always smaller than the hole. This enables easy assembly and leaves room for sliding and rotational movement. When the shaft diameter is at its minimum and hole diameter at its maximum, we have a situation of maximum clearance, and minimum clearance for vice-versa. <img align=right src="./img/1/clearance-fit.jpg">
 
 Clearance fits come in 6 sub-categories. These are: 
 
@@ -95,7 +97,7 @@ Clearance fits come in 6 sub-categories. These are:
 6. Locational clearance 
 
 ## Transition Fit 
-A transition fit encompasses two possibilities: the shaft may be a little bigger than the hole, requiring some force to create the fit. At the other end of the spectrum is a clearance fit with a little bit of room for movement. Specifying a transition fit means that both outcomes are possible even inside a slide batch. 
+A transition fit encompasses two possibilities: the shaft may be a little bigger than the hole, requiring some force to create the fit. At the other end of the spectrum is a clearance fit with a little bit of room for movement. Specifying a transition fit means that both outcomes are possible even inside a slide batch. <img align=right src="./img/1/transition-fit.jpg">
 
 - Transition fit has two forms 
     1. Similar fit 
@@ -112,7 +114,7 @@ It leaves a small clearance or creates a small interference. Its assembly is pos
 ![Fixed Fit](./img/2/fixed-fit.png)
 
 ## Interference Fit 
-The assembly stage requires force, sometimes lubrication, heating of the hole and freezing the shaft. These help to increase/decrease the hole and shaft sizes respectively to make for an easier process. 
+The assembly stage requires force, sometimes lubrication, heating of the hole and freezing the shaft. These help to increase/decrease the hole and shaft sizes respectively to make for an easier process. <img align=right src="./img/1/interference-fit.png" width=400>
 
 The interference helps to secure the relative positioning of the shaft and hub even during rotation, making this type of fit good for transmitting rotational speed and power. 
 
@@ -121,11 +123,15 @@ The interference helps to secure the relative positioning of the shaft and hub e
 - Its assembly can be performed with cold pressing. 
 - For example, hubs, bushing, bearing, etc. 
 
+![press fit](./img/1/press-fit.jpg)
+
 ### Driving Fit 
 - It needs higher assembly forces for cold pressing.
 - Another way to mate parts is by using hot pressing. 
 - This interference fit is more prominent than with a press fit. 
 - For example, permanent mounting of gears, shafts, bushes, etc. 
+
+![driving fit](./img/1/driving-fit.png)
 
 ### Forced Fit 
 - It is high interference fit. 
@@ -133,8 +139,10 @@ The interference helps to secure the relative positioning of the shaft and hub e
 - Disassembly of the mated parts can result in broken parts. 
 - For example, shafts, gears, etc. 
 
+![forced fit](./img/1/forced-fit.png)
+
 # Tolerance 
-The difference in between the actual hole size and shaft size is called tolerance. 
+The difference in between the actual hole size and shaft size is called tolerance. <img align=right src="img/1/tolerance.jpg" width=300>
 
 - It is of two types: 
     1. Unilateral Tolerance 
@@ -185,7 +193,9 @@ The unit of work done remains joule in any case but for higher quantities some p
 - E = Exa ($10^18$)
 
 ## Surface Roughness 
-It is basically a waviness on the surface of the body. This is influenced by the stress concentration. 
+It is basically a waviness on the surface of the body. This is influenced by the stress concentration. <img align=right src="./img/1/surface-roughness.png" width=400>
+
+![surface roughness maths](./img/1/surface-roughness-2.png)
 
 Where, 
 - $a$ = value of roughness 
