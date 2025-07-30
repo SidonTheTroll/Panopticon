@@ -1,9 +1,9 @@
 # Bearing And Lubrication
 ## Bearing 
-A Bearing is a machine or system holding such that it enable the rotation underneath and support the thrust. It constraints relative motion to only the desired motion. It reduces friction between moving parts. Bearing support the rotating shafts of the wheels, gears, turbines, rotors, etc. in those machines, allowing them to rotate more smoothly. 
+A Bearing is a machine or system holding such that it enable the rotation underneath and support the thrust. It constraints relative motion to only the desired motion. It reduces friction between moving parts. Bearing support the rotating shafts of the wheels, gears, turbines, rotors, etc. in those machines, allowing them to rotate more smoothly. <img align=right width=100 src="img/3/bearing.jpg">
 
 ### Terminology of Bearing 
-
+![terminology of bearing](./img/3/terminology-of-bearing.jpg)
 
 ### Functions of Bearing 
 Bearings performs two major functions: 
@@ -18,7 +18,7 @@ Modern bearings come in a wide variety of types. The components that make up the
 3. Cage 
 
 ### Bearing Rings (Races)
-- The ring-shaped components are called bearing rings or races. 
+- The ring-shaped components are called bearing rings or races. <img align=right width=300 src="img/3/bearing-rings.jpg">
 - Bearing rings are used for these radial bearings. 
 - The bearing ring on the inside, into which the shaft is inserted, is called the inner ring. 
 - The one on the outside is called the outer ring, and is inserted into the housing.
@@ -26,10 +26,14 @@ Modern bearings come in a wide variety of types. The components that make up the
 ### Housing 
 - "Housing" refers to the components which come in contact with the outer ring when the bearing is inserted. 
 
+<img src="./img/3/housing.jpg" width=300>
+
 ### Races 
 - The Races used for thrust bearing provide support force applied in the same direction as the shaft. 
 - Shaft race is the race on the side, into which the shaft is inserted. 
 - Housing race is the race inserted, into the housing.
+
+<img src="img/3/races.jpg" width=400>
 
 ### Rolling Elements 
 - There are a variety of different rolling elements designed to suit the specific conditions of the bearing, such as the strength of the supporting force or the speed of the rotation. 
@@ -44,10 +48,12 @@ Modern bearings come in a wide variety of types. The components that make up the
 | img | Convex roller (barrel-shaped) | Roller Bearing | 
 
 ### Cage 
-- When the bearing's inner ring rotates this causes the rolling elements to roll. 
+- When the bearing's inner ring rotates this causes the rolling elements to roll. <img align=right src="img/3/cage.jpg" width=300>
 - When the surfaces come in contact, the rolling elements' rolling direction will be inverted relative to each other, and the rolling motion of the rolling elements will be disrupted.
 - In order to prevent this, a cage is put in place to keep the rolling elements separated from each other. This allows them to roll smoothly.
 - There are a variety of different types of cage units designed to suit the specific conditions of the bearing, such as the strength of the supporting force or the speed of the rotation. 
+
+<img src="img/3/cage-types.jpg" width=400>
 
 ### Categorization of Bearing 
 - Bearings can be categorized into 4 groups based on the direction of force supported and the shape of the rolling elements 
@@ -64,14 +70,17 @@ Modern bearings come in a wide variety of types. The components that make up the
     2. Angular Contact Ball Bearings 
 
 ### Deep Groove Ball Bearing 
-- Deep groove ball bearings are the most widely used among all bearings. 
+- Deep groove ball bearings are the most widely used among all bearings. <img align=right src="./img/3/deep-groove-ball-bearing.jpeg" width=100>
 - They can support both a radial load and a certain amount of axial load coming from both directions at the same time.
 - If a bearing is to support very large axial loads then the "angular contact ball bearings" is needed. 
 - Deep groove ball bearing start with the series 30200. 
 
 ### Angular Contact Ball Bearing 
-- Angular contact ball bearings can support a radial load and a one directional axial load at the same time. 
+- Angular contact ball bearings can support a radial load and a one directional axial load at the same time. <img align=right src="./img/3/angular-contact-ball-bearing.png" width=100>
 - When axial loads coming from both directions are to be supported, two or more angular contact ball bearings are combined. 
+
+<img src="img/3/angular-contact-combo.jpg" height=200>
+
 - Here two contact ball bearings are combined for more load bearing. 
 
 ### Radial Roller Bearing 
@@ -82,19 +91,22 @@ Modern bearings come in a wide variety of types. The components that make up the
     3. Tapered Roller Bearings 
 
 ### Cylindrical Roller Bearings 
-- These use cylindrical rollers as their rolling elements. 
+- These use cylindrical rollers as their rolling elements. <img align=right src="img/3/cylindrical-roller-bearing.png" width=200>
 - Cylindrical roller bearings can support an even greater load than deep groove ball bearings, and are used in machinery where they will experience strong impacts. 
 
 ### Needle Roller Bearings 
-- These use needle rollers as their rolling elements.
+- These use needle rollers as their rolling elements. <img align=right src="./img/3/needle-roller-bearing.jpeg" width=200>
 - Needle rollers have a smaller diameter than cylindrical rollers, and contributed to the down-sizing of machinery. 
 - It has intermittent operation and can perform both side rotation. 
 - It bears moderate load and operate on moderate speed. The series starts from 223220. 
 
 ### Tapered Roller Bearings 
-- These use tapered rollers in the shape of tapered trapezoids as their rolling elements.
+- These use tapered rollers in the shape of tapered trapezoids as their rolling elements. <img align=right src="./img/3/tapered-roller-bearing.png" width=200>
 - Tapered roller bearings are the most widely used among all roller bearings, and can support a radial load and a one-directional axial load at the same time. 
 - When axial loads coming from both directions are to be supported, two or more tapered roller bearings are combined together. 
+
+<img src="./img/3/tapered-roller-bearing-combo.jpg" width=300>
+
 - Here, two tapered roller bearings are combined for more load bearing. 
 
 ## Lubrication 
@@ -118,7 +130,7 @@ Some of the reasons for lubrication are:
     2. Oil Lubrication 
 
 ### Grease Lubrication 
-- Grease is a semi-solid substance. 
+- Grease is a semi-solid substance. <img align=right width=200 src="./img/3/grease-lubrication.jpg">
 - It tends not to leak out and can be easily affixed to the inside of the bearing. 
 - Since this makes it convenient as a sealing device, grease lubrication is widely applied for bearings. 
 
@@ -140,17 +152,20 @@ Some of the reasons for lubrication are:
     2. Grease Feeding Method 
 
 ### Grease Packed Bearings 
-- Grease-packed bearings are bearings that are sealed by the bearing manufacturer using a shield or seal after inserting the necessary grease into the inside of the bearing. 
+- Grease-packed bearings are bearings that are sealed by the bearing manufacturer using a shield or seal after inserting the necessary grease into the inside of the bearing. <img align=right src="./img/3/grease-packed-bearing.jpg" width=200>
 
 ### Grease Feeding Method 
-- After mounting a non-greased bearing into the machine, grease is filled onto the bearing. 
+- After mounting a non-greased bearing into the machine, grease is filled onto the bearing. <img align=right src="./img/3/grease-feeding-method.jpg" width=300>
 - Grease supplied through the grease nipple is filled into the grease sector inside the housing, flowing into the inside of the bearing. 
 - Used grease is pumped out of the bearing and ejected out of the housing by the centrifugal force of the rotary disc attached to the grease valve. 
 - The grease feeding interval can be determined by the type, size and rotation speed of the bearing. 
-- A graph in the left depicts the greasing feeding interval. 
+
+<img src="./img/3/grease-feeding-interval.jpg" width=400>
+
+- The graph depicts the greasing feeding interval. 
 
 ### Oil Lubrication 
-- Mineral oil is a refined crude oil and suitable for lubrication, therefore it is used as lubricating oil. 
+- Mineral oil is a refined crude oil and suitable for lubrication, therefore it is used as lubricating oil. <img align=right src="./img/3/mineral-oil.jpg" width=100>
 - However, mineral oil has the disadvantages that it oxidizes at high temperatures and its lubricating function deteriorates. 
 - At low temperatures its viscosity increases and the force required to stir the lubricating oil increases. 
 - For this reason, we use synthetic oil that has excellent lubricating function in high or low temperatures. 
@@ -168,20 +183,20 @@ Some of the reasons for lubrication are:
     4. Forced oil circulation 
 
 ### Oil Bath Lubrication 
-- This is a method of operating the machine by immersing the bearing in lubricating oil.
+- This is a method of operating the machine by immersing the bearing in lubricating oil. <img align=right src="./img/3/oil-bath-lubrication.jpg" width=200>
 - It is suitable for low- to medium-speed rotation.
 
 ### Oil Drip Lubrication 
-- Lubricating oil is dripped from the oiling device and the effect of the rotating part causes the lubricating oil to mist and fill the housing.
+- Lubricating oil is dripped from the oiling device and the effect of the rotating part causes the lubricating oil to mist and fill the housing. <img align=right src="./img/3/oil-drip-lubrication.jpg" width=200>
 - This has a cooling effect.
 - This method can be applied at relatively high speeds and mid-level loads.
 
 ### Oil Splash Lubrication 
-- This is a method in which gears, etc. are attached to the shaft, the lubricating oil is splashed, and it is made into droplets for oil supply.
+- This is a method in which gears, etc. are attached to the shaft, the lubricating oil is splashed, and it is made into droplets for oil supply. <img align=right src="./img/3/oil-splash-lubrication.jpg" width=230>
 - This method can be applied at relatively high speeds.
 
 ### Forced Oil Circulation 
-- This is a lubrication method In which the lubricating oil is Inserted inside the bearing, then cooled, and then circulated again.
+- This is a lubrication method In which the lubricating oil is Inserted inside the bearing, then cooled, and then circulated again. <img align=right src="./img/3/forced-oil-circulation.jpg" width=230>
 - It is most commonly applied in high-speed rotation or high-temperature conditions.
 
 ### Comparison between Grease and Oil Lubrication 
