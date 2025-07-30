@@ -82,7 +82,7 @@ Joining different parts is called fit. For example,
     2. **Interference fit**: in this, the shaft diameter is more than the hole. 
     3. **Transition fit**: in this, the possibility of both of them are conditional. 
 
-![Types of Fit](./img/2/types-of-fit.png)
+![Types of Fit](./img/1/types-of-fit.png)
 
 ## Clearance Fit
 With a clearance fit, the shaft is always smaller than the hole. This enables easy assembly and leaves room for sliding and rotational movement. When the shaft diameter is at its minimum and hole diameter at its maximum, we have a situation of maximum clearance, and minimum clearance for vice-versa. <img align=right src="./img/1/clearance-fit.jpg">
@@ -106,12 +106,12 @@ A transition fit encompasses two possibilities: the shaft may be a little bigger
 ### Similar Fit 
 It leaves a small clearance or creates a small interference. Its assembly is possible using a rubber mallet. For example, hubs, gears, pulleys, bearings, etc. 
 
-![Similar fit](./img/2/similar-fit.png) 
+![Similar fit](./img/1/similar-fit.png) 
 
 ### Fixed Fit 
 It leaves a small clearance or creates a small interference. Its assembly is possible using light force. For example, driven bushes, armatures on shafts, etc. This is used in engineering. 
 
-![Fixed Fit](./img/2/fixed-fit.png)
+![Fixed Fit](./img/1/fixed-fit.png)
 
 ## Interference Fit 
 The assembly stage requires force, sometimes lubrication, heating of the hole and freezing the shaft. These help to increase/decrease the hole and shaft sizes respectively to make for an easier process. <img align=right src="./img/1/interference-fit.png" width=400>
