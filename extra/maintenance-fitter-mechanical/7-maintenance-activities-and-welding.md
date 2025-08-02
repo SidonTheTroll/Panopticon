@@ -35,7 +35,7 @@
     4. Easy and fast repair. 
 
 ## Maintenance Record 
-- Maintenance record, is a document that includes information regarding each repair and maintenance work that is done on asset or equipment. 
+- Maintenance record, is a document that includes information regarding each repair and maintenance work that is done on asset or equipment. <img src="./img/7/maintenance-record.jpg" width=200>
 - In simple words, it keeps tracks of assets failures and repairs. 
 - It is one of the best way to maintain health and safety management. 
 - It also improves asset management as such record includes information such as: 
@@ -94,20 +94,38 @@
 ### Butt Joint 
 - A connection between the ends or edges of two parts making an angle to one another of 135-180° Inclusive in the region of the joint.
 
+<img src="img/7/butt-joint.jpg" width=350>
+
 ### T Joint 
 - A connection between the end or edge of one part and the face of the other part, the parts making an angle to one another of more than 5 up to and Including 90° in the region of the joint.
+
+<img src="./img/7/t-joint.jpg" width=300>
 
 ### Corner Joint
 - A connection between the ends or edges of two parts making an angle to one another of more than 30 but less than 135° in the region of the joint.
 
+<img src="./img/7/corner-joint.jpg" width=200>
+
 ### Edge Joint
 - A connection between the edges of two parts making an angle to one another of 0 to 30° inclusive in the region of the joint.
+
+<img src="./img/7/edge-joint.jpg" width=250>
 
 ### Cruciform Joint 
 - A connection in which two flat plates or two bars are welded to another flat plate at right angles and on the same axis.
 
+<img src="./img/7/cruciform-joint.jpg" width=200>
+
 ### Lap Joint
 - A connection between two overlapping parts making an angle to one another of 0-5° inclusive in the region of the weld or welds.
+
+<img src="./img/7/lap-joint.jpg" width=400>
+
+### Butt Weld Features 
+<img src="./img/7/butt-weld-features.jpg">
+
+### Fillet Weld Features 
+<img src="./img/7/fillet-weld-features.jpg">
 
 ## Types of Welding 
 - There are a variety of different processes with their own techniques and applications for industry, these include: 
@@ -118,34 +136,34 @@
     5. Resistance Welding 
 
 ### Arc Welding 
-- This category includes a number of common manual, semi-automatic and automatic processes. 
+- This category includes a number of common manual, semi-automatic and automatic processes. <img src="./img/7/arc-welding.jpg" width=300>
 - These include metal inert gas (MIG) welding, stick welding, tungsten Inert gas (TIG) welding also know as gas tungsten arc welding (GTAW), gas welding, metal active gas (MAG) welding, flux cored arc welding (FCAW), gas metal arc welding (GMAW), submerged arc welding (SAW), shielded metal arc welding (SMAW) and plasma arc welding. ISD
 - These techniques usually use a filler material and are primarily used for joining metals including stainless steel, aluminium, nickel and copper alloys, cobalt and titanium.
 - Arc welding processes are widely used across Industries such as oil and gas, power, aerosp ace, automotive, and more.
 
 ### Friction Welding 
-- Friction welding techniques join materials using mechanical friction.
+- Friction welding techniques join materials using mechanical friction. <img src="img/7/friction-welding.jpg" width=300>
 - This can be performed in a variety of ways on different welding materials including steel, aluminium or even wood.
 - The mechanical friction generates heat which soften materials & it mixes to create a bond. 
 - Friction is frequently used in aerospace applications as it is ideal for joining otherwise 'non-weldable' light-weight aluminium alloys.
 - Friction processes are used across industry and are also being explored as a method to bond wood without the use of adhesives or nails.
 
 ### Electronic Beam Welding 
-- Friction is frequently used in aerospace applications as it is ideal for joining otherwise 'non-weldable' light-weight aluminium alloys.
+- Friction is frequently used in aerospace applications as it is ideal for joining otherwise 'non-weldable' light-weight aluminium alloys. <img src="img/7/electronic-beam-welding.jpg" width=300>
 - Friction processes are used across industry and are also being explored as a method to bond wood without the use of adhesives or nails.
 - (EBW) is performed in vacuum to prevent the beam from dissipating.
 - There are many common applications for EBW, as can be used to join thick sections.
 - This means it can be applied across a number of Industries like aerospace, nuclear power, automotive & rail.
 
 ### Laser Welding 
-- (EBW) is performed in vacuum to prevent the beam from dissipating.
+- (EBW) is performed in vacuum to prevent the beam from dissipating. <img src="./img/7/laser-welding.jpg" width=300>
 - There are many common applications for EBW, as can be used to join thick sections.
 - This means it can be applied across a number of Industries like aerospace, nuclear power, automotive & rail.
 - Being easily automated, the high welding speed at which this process can be performed makes it perfect for high volume applications, such as within the automotive industry.
 - Being easily automated, the high welding speed at which this process can be performed makes it perfect for high volume applications, such as within the automotive industry.
 
 ### Resistance Welding 
-- This is a fast process which is commonly used in the automotive industry.
+- This is a fast process which is commonly used in the automotive industry. <img src="img/7/resistance-welding.jpg" width=300>
 - This process can be split into two types, resistance spot welding and resistance seam welding.
 - Spot welding uses heat delivered between two electrodes which is applied to a small area as the work pieces are clamped together.
 - Seam welding is similar to spot welding except it replaces the electrodes with rotating wheels to deliver a continuous leak-free weld.
