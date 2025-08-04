@@ -9,7 +9,7 @@
 
 
 ### Stationary Hydraulics
-- Stationary hydraulic system remains firmly fixed in one position. 
+- Stationary hydraulic system remains firmly fixed in one position. <img src="./img/9/stationary-hydraulics.jpg" width=180 align=right>
 - The characteristic feature of stationary hydraulics is that valves are mainly solenoid operated. 
 - The applications of stationary hydraulics are as follows: 
     1. Machine tools and transfer lines
@@ -22,7 +22,7 @@
     8. Automatic handling equipment and robots 
 
 ### Mobile Hydraulics
-- Mobile hydraulic systems move on wheels or tracks such as a tower crane or excavator truck to operate in many different locations or while moving. 
+- Mobile hydraulic systems move on wheels or tracks such as a tower crane or excavator truck to operate in many different locations or while moving. <img src="./img/9/mobile-hydraulic.webp" width=200 align=right>
 - A characteristic feature of mobile hydraulics is that the valves are frequently manually operated.
 - The applications of mobile hydraulics are as follows: 
     1. Automobiles, tractors, airplanes, missile, boats, etc. 
@@ -70,7 +70,7 @@
 - In oil hydraulics, we deal mostly with the fluid working in a confined system, that is, a hydrostatic system.
 
 ### Basic Components 
-- The hydraulic actuator is a device used to convert the fluid power into mechanical power to do useful work. The actuator may be of the linear type (e.g., hydraulic cylinder) or rotary type(e.g., hydraulic motor) to provide linear or rotary motion, respectively.
+- The hydraulic actuator is a device used to convert the fluid power into mechanical power to do useful work. The actuator may be of the linear type (e.g., hydraulic cylinder) or rotary type(e.g., hydraulic motor) to provide linear or rotary motion, respectively. <img src="./img/9/fluid-power-system-basic-components-1.jpg" width=400 align=right>
 - The hydraulic pump is used to force the fluid from the reservoir to rest of the hydraulic circuit by converting mechanical energy into hydraulic energy.
 - Valves are used to control the direction, pressure and flow rate of a fluid flowing through the circuit.
 - External power supply (motor) is required to drive the pump.
@@ -85,7 +85,7 @@
     4. The fluid power motor (whether it is a rotating or a non-rotating cylinder or a fluid power motor) parallels the solenoids and electrical motors.
 
 ## Advantages of Fluid Power System 
-1. Fluid power systems are simple, easy to operate and can be controlled accurately
+1. Fluid power systems are simple, easy to operate and can be controlled accurately <img src="./img/9/fluid-power-system-basic-components-2.jpg" align=right width=400>
 2. Multiplication and variation of forces
 3. Multifunction control
 4. Low-speed torque
