@@ -158,8 +158,7 @@
 ### Laser Welding 
 - (EBW) is performed in vacuum to prevent the beam from dissipating. <img src="./img/7/laser-welding.jpg" width=300>
 - There are many common applications for EBW, as can be used to join thick sections.
-- This means it can be applied across a number of Industries like aerospace, nuclear power, automotive & rail.
-- Being easily automated, the high welding speed at which this process can be performed makes it perfect for high volume applications, such as within the automotive industry.
+- This means it can be applied across a number of industries like aerospace, nuclear power, automotive & rail.
 - Being easily automated, the high welding speed at which this process can be performed makes it perfect for high volume applications, such as within the automotive industry.
 
 ### Resistance Welding 
