@@ -4,8 +4,8 @@
 
 - Units 
     1. Uses of Drawing Instruments 
-    2. Geometrical construction 
-    3. Dimensioning 
-    4. Lines 
-    5. Solids 
-    6. Conical Section 
+    2. Different Types of Lines 
+    3. Geometrical Construction 
+    4. Lettering 
+    5. Representation of Scales 
+    6. Computational Designs 
