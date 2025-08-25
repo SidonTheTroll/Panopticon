@@ -27,8 +27,8 @@ When the charges are separated by free space,
 Then, 
 
 $\text{In CGS unit, }k = 1$  
-$\text{In SI unit, }k = \frac{1}{4\pi\epsilon_0}$
+$\text{In SI unit, }k = \frac{1}{4\pi\epsilon_0} = 9 \times 10^9 \frac{Nm^2}{C^2}$
 
 $$
-\therefore \frac{1}{4\pi\epsilon_0 \frac{q_1q_2}{r^2}}
+\therefore F = \frac{1}{4\pi\epsilon_0} \frac{q_1q_2}{r^2}
 $$
