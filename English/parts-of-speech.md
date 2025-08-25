@@ -83,7 +83,7 @@ E.g.: I have a $\underset{adj}{big}$ $\underset{adj}{brown}$ dog.
 - Words that **convey actions, processes or states** about the noun or pronoun are called verbs.  
 - Maximum of 4 verbs can be used consequently in a sentence. 
 
-E.g.: He $\underset{\text{verb}}{could have been playing}$ football since the morning. 
+E.g.: He $\underset{\text{V}}{\text{could}\ } \underset{V}{\text{have\ }} \underset{V}{\text{been\ }} \underset{V}{\text{playing}}$ football since the morning. 
 
 - **Types**
     1. **Transitive Verb**: needs object to complete the meaning. E.g.: "He **wrote** a letter", "They **built** a house", "I **like** music". 
@@ -106,8 +106,8 @@ E.g.: He runs **fast**.
 - Placed before a noun or pronoun to show the relationship between those noun/pronoun. 
 
 - **Types**
-    - 1. **Simple/single preposition**: E.g.: on, in, above, below, behind, etc. 
-    - 2. **Phrase Preposition (compound preposition)**: E.g.: on behalf of, with the help of, according to, in favor of, etc. 
+    1. **Simple/single preposition**: E.g.: on, in, above, below, behind, etc. 
+    2. **Phrase Preposition (compound preposition)**: E.g.: on behalf of, with the help of, according to, in favor of, etc. 
         - **Compound Preposition**: into, outset, etc. 
 
 > [!NOTE]
@@ -142,6 +142,8 @@ E.g.: "Alas! She has passed away.", "Hurrah! We have won."
     - Predicate: gives very good milk nowadays.
 
 3. $\underset{\text{Pro}}{\text{He }} \underset{\text{V}}{{\text{gave }}} \underset{N}{\text{me }} \underset{adj}{\text{an }} \underset{N}{\text{orange }}$.
+    - Subject: He 
+    - Predicate: gave me an orange. 
 
 > [!IMPORTANT]
 >  ***A*, *an* and *the*** are articles but fall under adjectives. 
