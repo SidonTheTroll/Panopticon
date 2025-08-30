@@ -113,6 +113,58 @@ E.g.: He runs **fast**.
 > [!NOTE]
 > Every clause can be a sentence, but every phrase cannot be a sentence. 
 
+---
+
+> 26/08/25
+
+#### Related to Time and Place 
+##### Time 
+1. It has been raining **for** five hours. 
+2. It has been raining **since** 10 o'clock. 
+
+- **"For"** is used for period of time. 
+- **"Since"** is used for point of time. 
+
+##### Place 
+1. I am going **to** Mumbai. 
+2. She ran **to** the post and back. 
+3. Don't go **till/until** the bell rings. 
+4. I am putting my watch **inside** my pocket. 
+5. My watch is **in** my pocket. 
+6. I am going **to** the station. 
+7. I met him **at** the station. 
+8. I was born **in** Delhi. 
+9. He lives **in** America. 
+10. He lives **at** Andheri **in** Mumbai. 
+
+<div style="page-break-after: always"></div>
+
+- **"in"** is used for big cities/countries.
+- **"at"** is used for small town/villages. 
+
+<div style="page-break-after: always"></div>
+
+1. The child sat **beside** her mother. [beside = on the side of]
+2. **Besides** being fined, he was sent to jail. [besides = in addition to]
+
+<div style="page-break-after: always"></div>
+
+1. Your textbook is **among** the other books. 
+2. Let's divide the money **between** the two of us. 
+3. I'll come back **within** an hour. [within = before] 
+4. I'll come back **in** an hour. [in = after] 
+5. I woke up **at** day break. 
+6. I came home **at** midnight. 
+    - **"At"** also refers to specific point of time. 
+7. The train travelled **on** the track. 
+8. The car travelled **across** the bridge. 
+9. The plane flew **over** the clouds. 
+10. THe dog ran **across/around/towards** the field. 
+
+---
+
+> 22/08/2025
+
 ### 7. Conjunction
 - Words that can join two words are called conjunction. 
 
@@ -147,3 +199,10 @@ E.g.: "Alas! She has passed away.", "Hurrah! We have won."
 
 > [!IMPORTANT]
 >  ***A*, *an* and *the*** are articles but fall under adjectives. 
+
+# Indefinite Articles (A, An) 
+> 26/08/2025
+
+- The use of a and an depends on the sound of the word. 
+- For the words that are difficult to pronounce, both 'a' and 'an' are
+
