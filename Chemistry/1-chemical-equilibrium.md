@@ -101,7 +101,7 @@ $\implies \frac{ {[C]RT}^C {[D]RT}^d } { {[A]RT^a} {[B]RT}^b }$
 $\implies \frac{[C]^c [D]^d}{[A]^a [B]^b}$  
 $\implies \frac{(RT)^{c+d}}{(RT)^{a+b}}$  
 $\implies K_C = (RT)^{(c+d)-(a+b)}$  
-$\K_p = K_C (RT)^{\Delta ng}$  
+$\implies K_p = K_C (RT)^{\Delta ng}$  
 $\Delta ng = (c+d)-(a+b)$
 
 $2 A(g) = B(g) + C (g)$  
@@ -109,5 +109,179 @@ $A ng = (1+1)-2$
 $A = 0$
 $K_P = K_C (RT)^{\Delta ng}$  
 $\implies K_C (RT)^0$  
-$K_P = K_C \times 1$
+$K_P = K_C\times 1$  
 $\therefore K_P = K_C$
+
+## Le Chatelier's Principle 
+
+It states that if a system in equilibrium is subjected to a change in concentration, temperature or pressure. The equilibrium shifts in such a way so as to undo the effect of the system. 
+
+### Effect of Change in Concentration
+When the concentration of any of the reactant or product at equilibrium is changed, the composition of equilibrium mixture changes so as to minimize the effect of concentration changed. 
+
+$$
+H_2 + I_2 \leftrightarrow 2HI 
+$$
+
+If we increase the concentration of $H$ or $I$, the equilibrium is disturbed and to restore the equilibrium, forward reaction will try to reduce the concentration of $H$ or $I$ to restore the equilibrium. 
+
+Similarly, if we decrease the concentration of $HI$, the reaction will try to increase its concentration, so the reaction will go forward. 
+
+### Effect of Change in Pressure 
+$$
+PV = nRT
+$$
+
+If volume and temperature are constant, 
+
+$P \propto n$
+
+$\therefore \text{The more moles are present, the higher pressure there is}$  
+$N_2O_4 (g) \leftrightarrows 2NO_2 (g)$ 
+
+If pressure increases, backward reaction will take place to decrease the number of moles in the direction of less moles. So, backward reaction will take place. 
+
+And vice versa if pressure decreases and forward reaction will take place. 
+
+### Effect of Change in Temperature 
+
+| S. No. | Exothermic | Endothermic | 
+|-|-|-|
+| 1. | Heat released during reaction | Heat absorbed during reaction. | 
+| Eg. | $C (s) + O (g) \leftrightarrows CO_2 + \Delta$ | $\text{Melting of ice and } CaCO_3 + \Delta \leftrightarrows CaO + CO_2$ | 
+| 2. | Forward reaction is favored by low temperature | Forward reaction is favored by high temperature. | 
+| 3. Catalyst cannot change the concentration of any side | Catalyst cannot change the concentration of any side. | 
+
+## Electrolite 
+- Breaks down (dissociates) into ions when dissolved in water. 
+
+$$
+NaCl + H_2O \rightarrow Na^+ (aq) + Cl^- (aq) 
+$$
+
+## Non-Electrolite 
+- Doesn't dissociate into ions when dissolved in water. 
+
+$C_6H_{12}O_6$ 
+
+| S. No. | Strong Electrolite | Weak Electrolite | 
+|-|-|-|
+| 1. | Completely dissociates into ions. | Cannot dissociate completely in water. | 
+| Eg: | $NaCl + H_2O \rightarrow Na^+ Cl^-$ | $CH_3COOH + H_2O \leftrightarrow CH_3COO^- + H^+$ | 
+| 2. | Equilibrium is not possible | Equilibrium is possible | 
+
+## Degree of Dissociation $\alpha$
+$$
+\underset{100-5}{CH_3COOH} + H_2O \leftrightarrows \underset{5}{CH_3COO^-} + \underset{5}{H^+} 
+\therefore \text{Dissociation} = 5/100
+$$
+
+$\therefore$ The fraction of the total number of molecules of an electrolite that dissociate into its ions is called Degree of Dissociation. 
+
+$\alpha \frac{\text{Number of ionized molecules}}{\text{Total number of molecules}}$
+
+$1 mol = \alpha$  
+$2 mol = 2 \alpha$  
+$3 mol = 3 \alpha$  
+$C mol = C \alpha$ 
+
+$$
+\underset{C - C\alpha}{CH_3COOH} + H_2O \underset{C\alpha}{CH_3COO^-} + \underset{C\alpha}{H^+}   
+$$
+
+$K_C = \frac{[CH_3COO^-][H^+]}{[CH_3COOH][H_2O]}$  
+$K_C[H_2O] = \frac{[CH_3COO^-][H^+]}{[CH_3COOH]}$  
+$K = \frac{[CH_3COO^-][H^+]}{[CH_3COOH]}$  
+$K = \frac{C\alpha \times C\alpha}{C-C\alpha}$  
+$\implies \frac{C \alpha \times C \alpha}{C(1-\alpha)}$  
+$K_{a/b} = \frac{C\alpha}{1 - \alpha}$
+
+$1 - \alpha \approx 1$  
+$K = C \alpha^2$  
+$\implies \alpha = \frac{K}{C}$  
+$\therefore \alpha = \sqrt{K/C}$
+
+---
+
+> The dissociation constant of 0.2 M acetic acid is $1.7 \times 10^{-5} M$ at 298 K. Calculate its degree of dissociation and hydrogen ion concentration. 
+
+Given:  
+$C = 0.2 M$  
+$T = 298 K$  
+$K = 1.7 \times 10^_{-5} M$ 
+
+$\alpha^2 = \frac{1.7 \times 10^{-5}}{0.2}$  
+$\alpha = 0.00922$ 
+
+$$
+\underset{C-C\alpha}{CH_3COOH} \leftrightarrows \underset{C\alpha}{CH_3COO^} - + \underset{C\alpha}{H^+}
+$$
+
+$H^+ = C\alpha$  
+$\implies 0.2 \times 0.00922$  
+$\implies 0.001844 M$
+
+--- 
+
+## Ionic Product of Water 
+$$
+H_2O \underset{R_b}{\overset{R_f}{\leftrightarrows}} H^+ + OH^-
+$$ 
+
+$K = \frac{[H^+][OH^-]}{[H_2O]}$
+
+$K[H_2O] = [H^+] [OH^-]$
+
+$\therefore K_W = [H^+] [OH^-]$  
+$[K_W] = K[H_2O]$ 
+
+At 298K,  
+$K_W = 10^{-14} M^2$
+
+$\underset{C - C\alpha}{H_2O} \leftrightarrows \underset{C\alpha}{H^+} + \underset{C\alpha}{OH^+}$
+
+$\therefore [H^+] = [OH^-]$  
+$\therefore [H^+] + [OH^-] = 10^{14}$
+
+$\therefore [H^+] = [OH^-] = 10^{-7} M \text{at 298 K}$
+
+$[H^+]\uparrow = \text{acidic}$  
+$OH^\uparrow = \text{basic}$
+
+## pH 
+- pH can be defined as -ve log of $H^+$ ion concentration. 
+
+$\therefore pH = -\log [H^+]$
+
+$K_W = [H^+][OH^-]$  
+$\log K_W = \log [H^+][OH^-]$  
+$\log K_W = \log [H^+][OH^-]$  
+$\log K_W = \log [H^+] + \log [OH^-]$
+$-\log K_W = -\log [H^+] - \log [OH^-]$  
+$pK_W = pH + pOH$
+
+$\therefore P^{K_W} = p^H = p^{OH}$  
+$\because p^{K_W} = -\log K_W$  
+$\implies -\log 10^{-14}$  
+$\implies +14$
+
+--- 
+
+> $HCl \rightarrow [H^+] = 10^{-5}$ Find pH. 
+
+$pH = -\log [H^+]$  
+$\implies -\log 10^{-5}$  
+$\implies -(-5) \log 10$
+$\implies 5$
+
+> If $HCl \rightarrow H^+ = 2 \times 10^{-4}$ Find pH 
+
+$pH = - \log [H^+]$  
+$\implies -\log (2\times 10^{-4})$  
+$\implies -\log 2 + (-\log 10^{-4})$  
+$\implies -\log 2 + [-(-4)\log 10]$
+$\implies -\log 2 + 4 \log 10$
+$\implies -0.301 + 4$  
+$\implies 3.699 M$
+
+---
