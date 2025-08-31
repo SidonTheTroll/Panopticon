@@ -5,7 +5,7 @@
 - Types of charge: 
     1. Positive: from excess of proton 
     2. Negative: from excess of electron 
-- Like charges repel, and similar charges attract. 
+- Like charges repel, and disimilar charges attract. 
 
 ## Basic Properties of Electric Charge 
 1. **Charges are conserved**: charges can neither be created nor be destroyed. 

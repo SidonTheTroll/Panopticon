@@ -1,5 +1,5 @@
 # Units and Dimensions 
-- **Physical Quantities**: the characteristics or properties of a physical system that can be measured or calculated, e.g.: length, breadth, mass, height, times, temperature, etc.
+- **Physical Quantities**: the characteristics or properties of a physical system that can be measured or calculated, e.g.: length, breadth, mass, height, time, temperature, etc.
 
 - Reference standards/units should be used along quantities to define certain characteristics of a system. 
 
@@ -10,7 +10,7 @@
     2. **MKS**: Meter, kilogram, second
     3. **FPS**: Feet, pound, second 
 
-Before 1875, different units of systems were used over the world before **International Committee for Weights and Measures** declared SI system of units as default for the world. 
+Before 1875, different units systems were used over the world before **International Committee for Weights and Measures** declared SI system of units as default for the world. 
 
 - Under **SI System of Units**: 
     1. Length: meter (m)
@@ -24,9 +24,9 @@ Before 1875, different units of systems were used over the world before **Intern
 The above quantities are called **fundamental quantities**, since, they can be measured independently.  
 When two or more units are used, they are callled derived quantities, eg: speed, velocity, area, volume. 
 
-$\text{Speed} = \frac{\text{Distance}}{\text{time}}$ and $\text{Velocity} = \frac{\overline{\text{Displacement}}}{time}$
+$\text{Speed} = \frac{\text{Distance}}{\text{time}}$ and $\text{Velocity} = \frac{\overrightarrow{\text{Displacement}}}{time}$
 
-$\therefore$, $\text{Distance} \neq \overline{\text{displacement}}$
+$\therefore$ $\text{Distance} \neq \overrightarrow{\text{displacement}}$
 
 ----------
 
