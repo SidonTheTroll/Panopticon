@@ -26,19 +26,28 @@ $\text{Then, volume of the cuboid} = \text{length} \times \text{Breadth} \times 
 7. Step 4-6 are repeated along other faces of the cuboid. 
 8. The volume of the cuboid is calculated by using the formula cited above. 
 
+## Calculations
+- $\text{Length} = \frac{25.85}{5} = 5.17\ cm$
+- $\text{Breadth} = \frac{8.22}{5} = 1.64\ cm$
+- $\text{Height} = \frac{8.55}{5} = 1.71\ cm$
+- $\text{Volume} = 5.17 \times 1.64 \times 1.71$
+    - $14.49\ cm^3$
+
 ## Observation 
 1. **Readings** 
     1. Value of smallest division of MS = 0.1 cm 
     2. A number of smallest divisions of the MS which coincides with the total number of Vernier divisions = 9 
 2. **Calculations of VC and IE** 
     - $10 VSD = 9 MSD$ 
-    - $VC = 1/10 \times 0.1 cm = 0.01 cm$
-    - $IE = 0 cm$
+    - $VC = 1/10 \times 0.1 cm = 0.01\ cm$
+    - $IE = 0\ cm$
 3. **Table for measuring average length, breadth and height of the shape**
-    - [placeholder]
+    - ![table](./img/01/a-table.jpg) 
 4. **Calculation**: the volume of the cuboid is 
     - $V = \text{avg. length} \times \text{avg. breadth} \times \text{avg. height}$
-5. **Result**: the volume of the cuboid is $$
+        - $5.17 \times 1.64 \times 1.71\ \text{cm}^3$
+        - $14.49\ \text{cm}^3$
+5. **Result**: the volume of the cuboid is $14.49\ \text{cm}^3$
 6. **Precautions**
     1. Make sure to check for instrumental error before calculation. 
     2. Always consider parallax error while observing. 
