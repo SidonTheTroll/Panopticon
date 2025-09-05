@@ -2,7 +2,7 @@
 To find the volume of wooden cuboid using Vernier Caliper
 
 ## Apparatus Required 
-Wooden Cuboid and Vernier Caliper 
+Wooden Cuboid and Vernier Caliper <img src="./img/01/c-diagram.jpg" width=400>
 
 ## Theory 
 To determine the volume of a cuboid, we have to determine the length, breadth and height of the cuboid using Vernier Caliper. 
