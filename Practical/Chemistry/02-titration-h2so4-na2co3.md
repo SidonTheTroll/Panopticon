@@ -46,3 +46,13 @@ $\implies 0.1419 N$
 $\text{In g/L} = N_1 \times 49$  
 $\implies 0.1419 \times 49$  
 $\implies 6.95 g/L$
+
+## Result 
+The strength of the supplied $H_2SO_4$ is 0.1419 N or 6.95 g/L. 
+
+## Precautions 
+1. Always rinse the burette and the pipette with the solution to be taken in them. 
+2. Never rinse the conical flask with the experimental solutions. 
+3. Remove the air gaps if any, from the burette. 
+4. Never use pipette and burette with broken nozzle. 
+5. The strength of the solution must be calculated up to the fourth decimal place. 
