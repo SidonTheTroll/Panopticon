@@ -35,6 +35,7 @@ The g/L of $H_2SO_4$ solution = $\text{Normality} \times \text{gm. equivalent wt
 6. Repeat the same procedure to get minimum of two concordant readings. 
 
 ## Observation 
+![table](./img/2-table.png)
 
 ## Calculation 
 $N_1V_1 = N_2V_2$

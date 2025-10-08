@@ -32,6 +32,7 @@ The $gm/L$ of $NaOH$ solution = $\text{Normality} \times \text{gm. equivalent wt
 6. Repeat the same procedure to get minimum of two concordant readings. 
 
 ## Observation
+![table](./img/1-table.png)
 
 ## Calculation 
 $N_1V_1 = N_2V_2$ 
@@ -39,7 +40,7 @@ $N_1V_1 = N_2V_2$
 $N_1 = \frac{0.1 \times 15.5}{25}$  
 $\implies 0.062 N$ 
 
-In g/L = $0.062 \timse 40$  
+In g/L = $0.062 \times 40$  
 $\implies 2.48 g/L$
 
 ## Result 
