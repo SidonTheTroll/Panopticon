@@ -10,10 +10,10 @@ Hard water sample, standard EDTA solution, $NH_4Cl - NH_4OH$ buffer solution, EB
 ## Chemical Reaction 
 $\underset{(Ca^{2+}/Mg^{2+})}{M^{2+}} + \underset{\text{Blue}}{EBT} \rightarrow \underset{\text{Wine-red}}{[M-EBT]}$
 
-$\underset{\text{Wine-red}}{[M-EBT]} + \underset{\text{Colorless}}{[M-EDTA]} + \underset{\text{Blue}}{EBT}$
+$\underset{\text{Wine-red}}{[M-EBT]} + \underset{\text{Colorless}}{EDTA} \rightarrow \underset{\text{Colorless}}{[M-EDTA]} + \underset{\text{Blue}}{EBT}$
 
 ## Theory 
-In this complexometric titration, the hard water solution is buffered to $p^H ~ 10$ by adding $NH_4Cl - NH_4OH$ buffer solution. At this pH, the $Ca^{2+}/ Mg^{2+}$ ions present in the hard water solution forms weak compounds with the EBT indicator. The color of [M-EBT] is wine red. During the titration with EDTA solution, EDTA replaces the EBT indicator from [M-EBT] by forming a very stable [M-EDTA] complex. Hence, at the end point of the titration, the EBT indicator remains free in the solution, which imparts its characteristic blue color to the solution. Thus, the color changes from wine-red to blue in this titration. 
+In this complexometric titration, the hard water solution is buffered to $p^H$ ~ $10$ by adding $NH_4Cl - NH_4OH$ buffer solution. At this $pH$, the $Ca^{2+}/ Mg^{2+}$ ions present in the hard water solution forms weak compounds with the EBT indicator. The color of [M-EBT] is wine red. During the titration with EDTA solution, EDTA replaces the EBT indicator from [M-EBT] by forming a very stable [M-EDTA] complex. Hence, at the end point of the titration, the EBT indicator remains free in the solution, which imparts its characteristic blue color to the solution. Thus, the color changes from wine-red to blue in this titration. 
 
 ## Procedure 
 1. Fill up the burette with EDTA solution. 
@@ -28,6 +28,10 @@ In this complexometric titration, the hard water solution is buffered to $p^H ~ 
 Total hardness = $\frac{A \times B \times 1000}{\text{ml of sample}}$  
 $\implies \frac{13.6 \times 0.3 \times 1000}{25}$  
 $\implies 163.2\ ppm$
+
+Here,  
+A = ml of EDTA consumed  
+B = mg of $CaCO_3$ equivalent to 1 ml EDTA 
 
 $Ca$-content = $\frac{13.6 \times 0.6 \times 400.8}{25} = 65.41\ ppm$
 
