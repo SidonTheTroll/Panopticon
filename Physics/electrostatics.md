@@ -5,7 +5,7 @@
 - Types of charge: 
     1. Positive: from excess of proton 
     2. Negative: from excess of electron 
-- Like charges repel, and disimilar charges attract. 
+- Like charges repel, and dissimilar charges attract. 
 
 ## Basic Properties of Electric Charge 
 1. **Charges are conserved**: charges can neither be created nor be destroyed. 
@@ -32,3 +32,12 @@ $\text{In SI unit, }k = \frac{1}{4\pi\epsilon_0} = 9 \times 10^9 \frac{Nm^2}{C^2
 $$
 \therefore F = \frac{1}{4\pi\epsilon_0} \frac{q_1q_2}{r^2}
 $$
+
+$k$ is known as **electrostatic force constant**. Its value depends upon the nature of the medium and the system of units.   
+When the charges are separated by free space,  
+Then, 
+
+- In CGS unit, $k = 1$
+- In SI unit, $k = \frac{1}{4 \pi \epsilon_0} = 9 \times 10^9 Nm^2/C^2$
+    - $\therefore F = \frac{1}{4 \pi \epsilon_0} \frac{q_1q_2}{r^2}$
+
