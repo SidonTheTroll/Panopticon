@@ -93,7 +93,7 @@ $\overrightarrow{A} \cdot \overrightarrow{B} = AB \cos \theta$
     - $\therefore \overrightarrow{A} \cdot \overrightarrow{B} = AB \cos 90\degree$
         - $\cos 90\degree = 0$
 4. If $\overrightarrow{A} \parallel \overrightarrow{B}, \overrightarrow{A} \cdot \overrightarrow{B} = AB$
-    - $\because \cos 0\degree & \cos 180\degree = 1$
+    - $\because \cos 0\degree\ \&\ \cos 180\degree = 1$
 5. $\overrightarrow{A} \cdot \overrightarrow{B} = AA \cos 0\degree = A^2$ 
 6. $\hat{i} \cdot \hat{j} = 0$
     - $\because$ x-axis $\perp$ y-axis = $\cos 90\degree = 0$
@@ -110,3 +110,38 @@ The vector product of 2 vectors $\overrightarrow{A}$ and $\overrightarrow{B}$ is
 $$
 \overrightarrow{A} \times \overrightarrow{B} = AB \sin\theta \hat{n}
 $$
+
+Direction of $\overrightarrow{A} \times \overrightarrow{B}$ is perpendicular to the plane containing $\overrightarrow{A}$ and $\overrightarrow{B}$
+
+The direction $\hat{n}$ can be found by using **Right-Hand Thumb Rule** by curling the fingers from the first vector to the second vector and the direction of thumb shows their direction. 
+
+E.g.:  
+$\text{Torque}, \tau = \overrightarrow{r} \times \overrightarrow{F}$  
+$\text{Angular momentum}, \overrightarrow{L} = \overrightarrow{r} \times \overrightarrow{p}$ [$p$ = linear momentum; $\overrightarrow{p} = m\overrightarrow{v}$]
+
+## Properties of Vector Products 
+> 02/09/25
+
+1. $\overrightarrow{A} \times \overrightarrow{B} = -\overrightarrow{B} \times \overrightarrow{A}$
+    - Vector products are anti-commutative 
+2. $\overrightarrow{A} \times (\overrightarrow{B} + \overrightarrow{C}) = \overrightarrow{A} \times \overrightarrow{B} + \overrightarrow{A} \times \overrightarrow{C}$
+    - Vector Products are distributive. 
+3. If $A \perp B, \overrightarrow{A} \times \overrightarrow{B} = AB$
+    - $\sin 90\degree = 1$
+4. If $A \parallel B, \overrightarrow{A} \times \overrightarrow{B} = 0$
+    - $\sin 0\degree = 0$
+5. 
+    - $\hat{i} \times \hat{j} = \hat{k} \\ \hat{j} \times \hat{k} = \hat{i} \\ \hat{k} \times \hat{i} = \hat{j}$
+
+6. 
+    - $\hat{j} \times \hat{i} = -\hat{k} \\ \hat{k} \times \hat{j} = -\hat{i} \\ \hat{i} \times \hat{k} = \hat{j}$
+
+7. 
+    - $\hat{i} \times \hat{i} = 0 \\ \hat{j} \times \hat{j} = 0 \\ \hat{k} \times \hat{k} = \hat{0}$
+
+8. $\overrightarrow{A} \times \overrightarrow{B}$ <img src="./img/1/vector-a-cross-b.jpg" width=420>
+
+9. $\hat{n} = \frac{\overrightarrow{A} \times \overrightarrow{B}}{|\overrightarrow{A} \times \overrightarrow{B}|}$
+
+10. $\sin \theta = \frac{|\overrightarrow{A} \times \overrightarrow{B}|}{|\overrightarrow{A}|\ |\overrightarrow{B}|}$
+
