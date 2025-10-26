@@ -48,4 +48,4 @@ Take a small amount of salt solution in a test tube perform the following tests
 In odor test, we get a pungent smell, so $NH_4^+$ is confirmed. 
 
 ## Result 
-From the given salt sample, the basic radical is $NH_4^+$ and the acid radical is $Cl^-$. Therefore the salt it $NH_4Cl$. 
+From the given salt sample, the basic radical is $NH_4^+$ and the acid radical is $Cl^-$. Therefore, the given salt it $NH_4Cl$. 
