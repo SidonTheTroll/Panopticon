@@ -17,6 +17,16 @@
 2. Change the verb from 'am' to 'was'. 
 3. Change the adverb from 'now' to 'then'.
 
+| Direct | Indirect | 
+|-|-|
+| here | there |
+| now | then |
+| today | the previous day |
+| thus | so |
+| ago | before |
+| tomorrow | the next day | 
+| yesterday | the day before | 
+
 ## Rules 
 1. If the reporting verb or principal verb is in past tense, then all the present tense of direct speech as changed to corresponding past tense in indirect speech. 
     - He said, "I am unwell."
@@ -47,3 +57,9 @@
         - He asked me what I was doing. 
     - He asked, "Are you not Mohan?"
         - He asked if I am not Mohan. 
+
+5. In reporting exclamations and wishes, the indirect speech is introduces by verbs like exclaimed, wished, called upon, exclaimed in joy, etc. or any other words expressing an exclamation or wish. 
+    - Alice said, "How clever I am!"
+        - Alice exclaimed that she was very clever. 
+    - Alice said, "What a beautiful flower!"
+        - Alice exclaimed with joy that the flower was very beautiful. 
