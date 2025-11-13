@@ -1,8 +1,72 @@
+# Title Card 
+- **Laboratory - Workshop:** Turning Shop 
+- **Name of the Experiment:** 
+- **Experiment No.:** 
+- **Title of the Job:** Facing, Plain Turning and Chamfering 
+- **Name:** 
+- **Class:** 
+- **Group:** 
+- **Session:** 2025
+- **Roll no.:** 
+- **Sub-Group:** ME-1 
+- **Date of Commencement:** 04/10/25 
+- **Date of Submission:** 13/11/25 
+
+# Job Card 
+- **Name of the Student:** 
+- **Class Roll no.:** 
+- **Job Title:** Facing, Plain Turning and Chamfering 
+
+## Sketch this Job with Particulars 
+<img src="./img/job-diagram.jpg">
+
+## Materials Required for the Job 
+1. M/S Round Bar: 1 nos. 
+
+## Tools and Equipments Required for the Job: 
+1. Hacksaw 
+2. Table vice 
+3. Grinding Machine 
+4. Steel foot rule 
+5. Marking Tool 
+6. Vernier Caliper 
+7. Single point cutting tool bit 
+8. All gear lathe machine 
+9. Try square 
+
+## D. Sequence of the Job: 
+1. Holding 
+2. Measuring 
+3. Marking 
+4. Cutting 
+5. Facing 
+6. Plain Turning 
+7. Chamfering
+8. Finishing 
+
+---
+
+| <center> Description of the works performed | Date | Time | 
+|-|:-:|:-:|
+| 1. Measuring an M.S. bar (round) for lathe operation and learned to center in a 4-jaw lathe. | 13/10/25 | 3 hours | 
+| 2. Fitted the job on the lathe machine and performed and successfully finished facing operation | 24/10/25 | 3 hours | 
+| 3. Fitted the job on the lathe machine and started plain turning and completed halfway | 3/11/25 | 3 hours | 
+| 4. Completed plain turning and started chamfering and finished the job | 12/11/25 | 3 hours | 
+
+- **Given Dimension:** 100 mm x 30 mm 
+- **Checked up Dimension:** 90 mm x 22 mm
+
+# Poster 
+<img src="./img/micrometer.jpg">
+<img src="./img/bench-vice.jpg">
+
+# Journal 
+
 ## Safety 
 There is a great importance of safety in one's life. Whatever may be the work, wherever the workman does his job, his life is not safe until he follows the safety rules. For not paying attention towards safety, we have to suffer physically as well as production and economic capacities are also affected. Due to these reasons, workshop gives a great importance to safety measures.   
 While working in any field, we have to keep in mind the things which keep our body safe and work is performed easily and accurately. All these things are called safety. 
 
-### Causes of Accidents  
+### Causes of Accidents 
 Accidents often occur in workshops due to various reasons. These accidents can cause injuries to workers and, in severe cases, may even result in death. The main causes of accidents are:  
 
 1. Carelessness  
@@ -558,8 +622,6 @@ The **feed shaft** is a plain shaft located parallel to the lead screw, with a c
    - Wheel and Axle Turning Lathe  
    - T-Lathe  
 
----
-
 If the lathe centers are not properly aligned, the work will taper.
 
 **Methods of aligning lathe centers:**
@@ -582,7 +644,7 @@ Cutting tools are classified into:
 
 ### Single-Point Cutting Tools
 
-Single-point cutting tools are primarily used on lathes and may be grouped into:
+Single-point cutting tools are primarily used on lathes and can be grouped into:
 
 1. **Side cutting tools**
 2. **End cutting tools**
@@ -624,7 +686,7 @@ Lathe cutting tools differ in the shape of their cutting edges and the specific 
 Lathe cutting tools are made of the following materials:
 
 1. High carbon steel  
-2. High-speed steel (HSS)  
+2. High-speed steel 
 3. Cobalt steel  
 4. Stellite steel  
 5. Tungsten carbide  
@@ -634,3 +696,5 @@ Lathe cutting tools are made of the following materials:
 9. Diamond  
 
 Each material is selected based on the cutting speed, hardness, and surface finish required.
+
+
