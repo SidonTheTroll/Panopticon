@@ -1,0 +1,61 @@
+## Aim of the Experiment
+
+To detect the acidic and basic radical of the supplied inorganic salt by performing dry tests and wet tests and then identify the salt.
+
+## Physical Characteristics of the Salt
+
+- **State:** Crystalline
+- **Color:** Colorless
+- **Odor:** odorless
+- **Solubility:** water-soluble
+
+## Dry Test for Acid Radical
+
+Take a small amount of salt (about 0.5 g) in a dry test tube and perform the following test.
+
+
+| S. No. | Experiment                                                           | Observation                             |                Inference                |
+| :------: | ---------------------------------------------------------------------- | ----------------------------------------- | :----------------------------------------: |
+|   1.   | Salt + dil.$H_2SO_4 + \Delta$                                        | No characteristic observations observed |        $CO_3^{2-}, S^{2-}$ absent        |
+|   2.   | Salt + conc.$H_2SO_4 + \Delta$                                       | No characteristic gas formed            | $CO_3^{2-}, S^{2-}, Cl^-, NO_3^-$ absent |
+|   3.   | Salt +$Cu$-turnings + conc. $H_2SO_4 + \Delta$                       | No reddish brown gas evolved            |             $NO_3^-$ absent             |
+|   4.   | Chromyl-chloride test: Salt +$K_2Cr_2O_7$ + conc. $H_2SO_4 + \Delta$ | No reddish colored gas                  |              $Cl^-$ absent              |
+
+## Wet Test for Acid Radical
+
+Take a little salt solution in a test tube and perform the following tests
+
+
+| S. No. | Experiment                                                                                                                                                                    | Observation                                                                       |       Inference       |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | :---------------------: |
+|   1.   | Salt solution +$AgNO_3$ solution                                                                                                                                              | White ppt. formed which dissolves on boiling                                      |  $SO_4^{2-}$ present  |
+|   2.   | Salt solution +$BaCl^2$ solution                                                                                                                                              | Heavy white ppt. which is neither soluble in dil./conc.$HCl$ or dil./conc.$HNO_3$ | $SO_4^{2-}$ confirmed |
+|   3.   | Salt solution +$NaOH$ solution + sodium nitroprusside solution                                                                                                                | No purple coloration of the solution                                              |    $S^{2-}$ absent    |
+|   4.   | Ring test: salt solution + freshly prepared$FeSO_4$ solution. Allowed the mixture to cool under water and then add 3-4 drops of conc. $H_2SO_4$ by the side of the test tube. | No brown ring                                                                     |    $NO_3^-$ absent    |
+
+## Wet Test for Basic Radical
+
+Take a small amount of salt solution in a test tube perform the following tests
+
+
+| S. No. | Experiment                                                                                    | Observation |          Inference          |
+| :------: | ----------------------------------------------------------------------------------------------- | ------------- | :---------------------------: |
+|   1.   | Salt solution + dil.$HCl$                                                                     | No ppt.     |       Group I absent       |
+|   2.   | Above salt +$\Delta$ + $H_2$ gas                                                              | No ppt.     |       Group 2 absent       |
+|   3.   | Boiled off$H_2S$ gas from the above solution + $NH_4Cl (s)$ + $NH_4OH$ solution till alkaline | No ppt.     |    Group III (A) absent    |
+|   4.   | Above solution +$H_2S$ gas                                                                    | No ppt.     |    Group III (B) absent    |
+|   5.   | Boiled of$H_2S$ from the above solution + $NH_4OH$ + $(NH_4)_2CO_3 (s)$                       | No ppt.     |       Group IV absent       |
+|   6.   | Above solution +$Na_2HPO_4$ solution                                                          | White ppt.  | Group V ($Mg^{2+}$) present |
+
+### Group-V ppt. Analysis
+
+The group-V ppt. is filtered, then taken in a test tube and dil. $HCl$ is added in it. The ppt. gets dissolved.
+
+$$
+\text{That solution} + NaOH \text{ solution} \rightarrow \text{White ppt.} \rightarrow Mg^{2+} confirmed
+
+$$
+
+## Result
+
+From the given salt sample, it is found that the basic radical is $Mg^{2+}$ and the acid radical is $SO_4^{2-}$. Therefore, the given salt is $MgSO_4$.
