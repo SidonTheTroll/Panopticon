@@ -33,17 +33,16 @@ Take a small amount of salt solution in a test tube perform the following tests
 |   3.   | Boiled off$H_2S$ gas from the above solution + $NH_4Cl (s)$ + $NH_4OH$ solution till alkaline | No ppt.     |    Group III (A) absent    |
 |   4.   | Above solution +$H_2S$ gas                                                                    | No ppt.     |    Group III (B) absent    |
 |   5.   | Boiled of$H_2S$ from the above solution + $NH_4OH$ + $(NH_4)_2CO_3 (s)$                       | White ppt.  |      Group IV present      |
-|   6.   | Above solution +$Na_2HPO_4$ solution                                                          | No ppt.     | Group V ($Mg^{2+}$) absent |
+|   6.   | Above solution +$Na_2HPO_4$ solution                                                          | No ppt.     | Group V ($Mg^{2+}$) present |
 
-### Group-IV ppt. Analysis
+### Group-V ppt. Analysis
 
-The group-IV ppt .si taken in a test tube and dil. acetic acid is added to it. The ppt. gets dissolved. Divide the solution into two parts.
+The group-V ppt. is filtered. The ppt. is taken in a test tube and dil. $HCl$ is added in it. The ppt. gets dissolved.
 
+$$
+\text{That solution} + NaOH \text{ solution} \rightarrow \text{White ppt.} \rightarrow Mg^{2+} \text{ present}
 
-| S.No. | Experiment                 | Observation    | Inference | 
-| ------- | ---------------------------- | ---------------- | - | 
-| 1.    | 1st part + $K_2CrO_4$ (s)   | No yellow ppt. | $Ba^{2+}$ absent | 
-| 2.    | 2nd part + $(NH_4)_2C_2O_4$ | White ppt.     | $Ca^{2+}$ confirmed | 
+$$
 
 ## Result
 
