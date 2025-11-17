@@ -37,7 +37,7 @@ Take a small amount of salt solution in a test tube perform the following tests
 | 3. | Boiled off $H_2S$ gas from the above solution + $NH_4Cl (s)$ + $NH_4OH$ solution till alkaline | No ppt. | Group III (A) absent | 
 | 4. | Above solution + $H_2S$ gas | No ppt. | Group III (B) absent | 
 | 5. | Boiled of $H_2S$ from the above solution + $NH_4OH$ + $(NH_4)_2CO_3 (s)$ | No ppt. | Group IV absent | 
-| 6. | Above solution + $NO_2HPO_4$ solution | No ppt. | Group V ($Mg^{2+}$) absent | 
+| 6. | Above solution + $Na_2HPO_4$ solution | No ppt. | Group V ($Mg^{2+}$) absent | 
 
 ### Test for $K^+$ and $NH_4^+$ 
 
