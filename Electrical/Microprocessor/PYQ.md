@@ -247,7 +247,7 @@
 9. The highest priority interrupt in 8085 is ____. 
    - TRAP
 10. Flag register contains ____ flags in 8085. 
-   - 5
+    - 5
 
 ### Choose the correct answers 
 1. The number/numbers of machine cycles required to execute the instruction MOV A, M is
@@ -312,29 +312,29 @@
    2. Port B  
    3. Port C  
    4. Both Port A and Port B  
-   > **Answer: Port A**
+   > Port A
 2. Signal in 8257 DMA that indicates the device is ready for data transfer:  
    1. HOLD  
    2. HLDA  
    3. READY  
    4. DMA Request (DRQ)  
-   > **Answer: DMA Request (DRQ)**
+   > DMA Request (DRQ)
 3. Instruction in 8085 that rotates accumulator right through carry:  
    1. RLC  
    2. RRC  
    3. RAL  
    4. RAR  
-   > **Answer: RAR**
+   > RAR
 4. Machine cycles required for STA instruction in 8085:  
    1. 2  
    2. 3  
    3. 4  
    4. 5  
-   > **Answer: 4**
+   > 4
 5. Default segment register for the stack in 8086:  
    1. CS  
    2. DS  
    3. SS  
    4. ES  
-   > **Answer: SS**
+   >  SS
 
