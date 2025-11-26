@@ -15,6 +15,8 @@
 - Job title: Sawing Operation 
 
 ### 1. Sketch this job with particulars
+![Sketch](./img/1-wood-piece.jpg)
+
 ### 2. Materials Required for the Job
 - Timber and Scanbar 
 
@@ -52,7 +54,7 @@
 - Job title: Sawing Operation 
 
 ### 1. Sketch this job with particulars
-
+![Sketch](./img/2-wood-piece.jpg)
 
 ### 2. Materials Required for the Job
 - Timber and Scanbar 
@@ -90,7 +92,7 @@
 - Job title: Sawing Operation 
 
 ### 1. Sketch this job with particulars
-
+![Sketch](./img/3-wood-piece.jpg)
 
 ### 2. Materials Required for the Job
 - Timber and Scanbar 
